@@ -78,7 +78,13 @@ body, h1, h3 {
 }
 
 @media (max-width: 425px) {
+  .header {
+    padding: 16px 16px;
+  }
   .main-block .company-name-container {
     max-width: 200px;
   }
+  iframe {
+    width: 320px !important; 
+  } 
 }

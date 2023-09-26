@@ -96,6 +96,9 @@ body, h1, h3 {
   .header {
     padding: 16px 16px;
   }
+  .main-block {
+    margin-top: 30px;
+  }
   .main-block .company-name-container {
     max-width: 200px;
   }

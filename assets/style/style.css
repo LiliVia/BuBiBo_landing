@@ -118,6 +118,9 @@ body, h1, h3 {
     width: 50%;
     padding: 130px 20px 0;
   }
+  .main-block .main-goal {
+    max-width: 600px;
+  }
   .main-block .iframe-container {
     width: 50%;
   }

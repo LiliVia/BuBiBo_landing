@@ -110,6 +110,7 @@ body, h1, h3 {
 @media (min-width: 1024px) {
   .main-block {
     flex-direction: row;
+    margin: 0;
     width: 100%;
     align-items: flex-start;
   }

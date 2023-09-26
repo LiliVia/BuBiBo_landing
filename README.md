@@ -1,9 +1,4 @@
-# BuBiBo_landing
+## BuBiBo_landing
 
-## project setup
-npm install
 
-## run project
-npx parcel index.html
-
-[Get the view](http://localhost:1234/)
+[Get the view](https://lilivia.github.io/BuBiBo_landing/)
